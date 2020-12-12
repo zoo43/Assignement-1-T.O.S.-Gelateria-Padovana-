@@ -5,5 +5,8 @@ Coppa Nafta
 #Budini
 Biancaneve
 Pinguini
+#Frullati
+Panna
+Pannolone
 Gelateria Padovana
 #Primi
